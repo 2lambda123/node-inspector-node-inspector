@@ -29,7 +29,7 @@
     "glob": "^5.0.5",
     "path-is-absolute": "^1.0.0",
     "rc": "^1.0.1",
-    "semver": "^4.3.4",
+    "semver": "^7.6.3",
     "serve-favicon": "^2.1.1",
     "strong-data-uri": "^1.0.0",
     "v8-debug": "~1.0.0",
@@ -44,7 +44,7 @@
     "install": "^0.8.7",
     "jshint": "^2.4.4",
     "mocha": "^1.21",
-    "npm": "^4.4.1",
+    "npm": "^10.8.2",
     "promise": "^7.0.3",
     "rimraf": "^2.6.1"
   },
